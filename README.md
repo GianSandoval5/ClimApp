@@ -18,6 +18,6 @@ Se ha usado la api de https://www.weatherapi.com/ es facil de obtener una clave 
 
 A continuación, se muestran algunas capturas de pantalla de la aplicación:
 
-![Pantalla principal](assets/images/cap1.png)
-![Pantalla de buscador](assets/images/cap3.png)
-![Pantalla de Previciones](assets/images/cap2.png)# ClimApp
+![Pantalla principal](assets/images/cap1.jpg)
+![Pantalla de buscador](assets/images/cap3.jpg)
+![Pantalla de Previciones](assets/images/cap2.jpg)# ClimApp
